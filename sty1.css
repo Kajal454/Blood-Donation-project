@@ -1,0 +1,52 @@
+body	{
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
+.text {
+	color:white;
+	font-size:32px;
+	text-align:center;
+	text-decoration:bold;
+	
+	font-family:Gabriola;
+
+     }
+
+font		{
+		font-size:30px;
+		position:absolute;
+		font-family:Algerian;
+		text-transform:capitalize;
+		left:42%;
+		color:white;
+		margin-top:-6%;
+		}
+		
+		
+p	{
+		font-size:22px;	
+		color:yellow;
+		font-family:Tahoma;
+		text-align:left;
+		border:1px transparent;
+		width:700px;
+		margin-left:25%;
+		margin-top:10%;
+		box-shadow:1px 2px 4px;	
+		padding:20px;
+		
+	}
+	
+form input[type=button]{
+		background-color:crimson;
+		color:white;
+		font-family:Baskerville Old Face;
+		font-size:18px;
+
+		}	
+		
+	form input[type=button]:hover{
+		text-decoration:underline;
+		}
+

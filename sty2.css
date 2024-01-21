@@ -1,0 +1,117 @@
+body	{
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
+
+
+h2		{
+	
+		text-transform:uppercase;
+		font-family:Times New Roman;
+		margin-top:-14px;
+		font-weight:bolder;
+		color:white;
+		
+		}
+		
+
+form	{
+		font-size:20px;	
+		color:black;
+		font-family:Georgia;
+		text-align:left;
+		border:2px solid grey;
+		width:450px;
+		height:650px;
+		margin-left:35%;
+	
+		box-shadow:1px 2px 4px;	
+		padding:5px;
+		background-color:white;
+		opacity:0.8;
+	}
+
+
+table {
+                
+				border-spacing:15px;
+				border:3px solid transparent;
+				padding:20px;
+            }
+	
+form input[type=submit]{
+		background-color:green;
+		color:white;
+		font-family:Baskerville Old Face;
+		font-size:18px;
+
+		}	
+		
+form input[type=submit]:hover{
+		text-decoration:underline;
+		}
+		
+form input[type=reset]{
+		background-color:red;
+		color:white;
+		font-family:Baskerville Old Face;
+		font-size:18px;
+
+		}	
+		
+form input[type=reset]:hover{
+		text-decoration:underline;
+		}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 20px;
+}
+
+.thank-you-container {
+    background-color: white;
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h1 {
+    color: darkred;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+}
+
+blockquote {
+    font-style: italic;
+    color: #555;
+    margin: 20px 0;
+    padding: 10px;
+    border-left: 3px solid darkred;
+}
+
+input[type="button"] {
+    background-color: darkred;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+input[type="button"]:hover {
+    background-color: #b30000;
+}
